@@ -60,8 +60,6 @@
   <rect width="400" height="1" fill="url(#yfgGradient)" opacity="0.3" />
 </svg>
 
-<br><br>
-
 </div>
 
 ##
