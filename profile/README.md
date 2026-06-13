@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Анимированный SVG-заголовок с вашим градиентом (orange→purple) -->
-<a href="https://yfg.su">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=40&lines=YOUR+FURRY+GROUP" alt="YFG Title" />
-</a>
-
 <br>
 
 <!-- Рабочий градиентный разделитель (inline-стили поддерживаются GitHub) -->
@@ -13,7 +8,11 @@
 <!-- Ваш логотип с тенью и скруглением -->
 <img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.3);">
 
-# YOUR FURRY GROUP
+<!-- Анимированный SVG-заголовок с вашим градиентом (orange→purple) -->
+<a href="https://yfg.su">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=40&lines=YOUR+FURRY+GROUP" alt="YFG Title" />
+</a>
+#
 
 ### Профессиональная организация мероприятий и билетной инфраструктуры
 
