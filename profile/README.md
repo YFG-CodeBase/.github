@@ -62,17 +62,6 @@
 
 <br><br>
 
-| Платформа | Ссылка |
-|-----------|--------|
-| **Discord-сервер** | [`discord.gg/TcwgMBKQFw`](https://discord.gg/TcwgMBKQFw) |
-| **Telegram-чат** | [`t.me/yfg_ing`](https://t.me/yfg_ing) |
-| **Telegram-канал** | [`t.me/yfg_media`](https://t.me/yfg_media) |
-| **VRChat-группа** | [`vrc.group/YFG666.9285`](https://vrc.group/YFG666.9285) |
-| **YouTube-канал** | [`@yfg_ing`](https://www.youtube.com/@yfg_ing) |
-| **Steam-группа** | [`yfg_ing`](https://steamcommunity.com/groups/yfg_ing) |
-| **VK-группа** | [`yfg_ing`](https://vk.com/yfg_ing) |
-| **Официальный сайт** | [`yfg.su`](https://yfg.su) |
-
 </div>
 
 ##
