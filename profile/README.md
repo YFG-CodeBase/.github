@@ -6,7 +6,7 @@
 
 **Профессиональное сообщество организаторов, инфраструктура для мероприятий и юридическое сопровождение**
 
-<img src="https://via.placeholder.com/600x2?text=+" width="600" height="2" style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); box-shadow: 0 0 4px rgba(138,43,226,0.5);">
+<img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="600" height="2" style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); box-shadow: 0 0 4px rgba(138,43,226,0.5);">
 
 <img width="4096" height="4096" alt="IMG_1533" src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" />
 
