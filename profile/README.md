@@ -35,7 +35,7 @@
   <code>Удобство</code> · <code>Функционал</code> · <code>Простота</code> · <code>Коммуникация</code>
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=YFG-CodeBase&label=PROFILE+VIEWS&color=8A2BE2&style=flat-square&labelColor=0d1117" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=YFG-CodeBase&label=Просмотры+профиля&color=8A2BE2&style=flat-square&labelColor=0d1117" alt="Profile Views">
 
   ---
   
