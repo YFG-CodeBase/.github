@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://via.placeholder.com/160x160?text=YFG" width="160" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+<img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="160" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
 
 # YOUR FURRY GROUP
 
