@@ -13,13 +13,14 @@
 ---
 
 <!-- БЕЙДЖИ СОЦСЕТЕЙ -->
-<a href="https://discord.gg/TcwgMBKQFw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://t.me/yfg_ing"><img src="https://img.shields.io/badge/Telegram_Чат-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
-<a href="https://t.me/yfg_media"><img src="https://img.shields.io/badge/Telegram_Канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
-<a href="https://vrc.group/YFG666.9285"><img src="https://img.shields.io/badge/VRChat-000000?style=for-the-badge&logo=vrchat&logoColor=white" alt="VRChat"></a>
-<a href="https://www.youtube.com/@yfg_ing"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://steamcommunity.com/groups/yfg_ing"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-<a href="https://vk.com/yfg_ing"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+<p align="center">
+  <a href="https://discord.gg/TcwgMBKQFw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/yfg_ing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
+  <a href="https://www.youtube.com/@yfg_ing"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://vrc.group/YFG666.9285"><img src="https://img.shields.io/badge/VRChat-000000?style=for-the-badge&logo=vrchat&logoColor=white" alt="VRChat"></a>
+  <a href="https://steamcommunity.com/groups/yfg_ing"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://vk.com/yfg_ing"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+</p>
 
 <br>
 
@@ -35,8 +36,8 @@
   <code>Удобство</code> · <code>Функционал</code> · <code>Простота</code> · <code>Коммуникация</code>
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=YFG-CodeBase&label=Просмотры+профиля&color=8A2BE2&style=flat-square&labelColor=0d1117" alt="Profile Views">
-
+  <img src="https://komarev.com/ghpvc/?username=YFG-CodeBase&label=👁️&color=8A2BE2&style=flat&labelColor=0d1117" alt="Profile Views">
+  
   ---
   
   <sub>
