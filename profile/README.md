@@ -1,43 +1,43 @@
 <div align="center">
 
-<!-- ГРАДИЕНТНАЯ ШАПКА (HTML-комментарий для корректного отображения) -->
+<!-- Анимированный SVG-заголовок с вашим градиентом (orange→purple) -->
 <a href="https://yfg.su">
-  <picture>
-    <source media="(prefers-color-scheme: dark)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1&color=FF8C00&center=true&vCenter=true&width=800&height=30&repeat=false&lines=YOUR+FURRY+GROUP" alt="YFG Title">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=40&lines=YOUR+FURRY+GROUP" alt="YFG Title" />
 </a>
 
-<!-- ГРАДИЕНТНАЯ ЛИНИЯ (рабочий вариант без внешних зависимостей) -->
-<div style="background: linear-gradient(90deg, #FF8C00 0%, #8A2BE2 100%); height: 3px; width: 100%; max-width: 800px; margin: 10px auto; border-radius: 3px;"></div>
+<br>
 
-<img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.25);">
+<!-- Рабочий градиентный разделитель (inline-стили поддерживаются GitHub) -->
+<div style="background: linear-gradient(90deg, #FF8C00 0%, #8A2BE2 100%); height: 3px; width: 100%; max-width: 600px; margin: 8px auto; border-radius: 3px;"></div>
+
+<!-- Ваш логотип с тенью и скруглением -->
+<img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.3);">
 
 # YOUR FURRY GROUP
 
 ### Профессиональная организация мероприятий и билетной инфраструктуры
 
-<!-- СЧЁТЧИК ПРОСМОТРОВ И ГРАФИК АКТИВНОСТИ -->
+<!-- Счётчик просмотров и график активности -->
 <div>
-  <img src="https://komarev.com/ghpvc/?username=yfg-org&label=VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/badge/ACTIVE-24%2F7-FF8C00?style=for-the-badge" alt="Activity Status">
+  <img src="https://komarev.com/ghpvc/?username=YFG-CodeBase&label=PROFILE+VIEWS&color=8A2BE2&style=flat-square&labelColor=1e1e2f" alt="Profile Views">
 </div>
 
 <br>
 
-<!-- ГРАФИК АКТИВНОСТИ (последние 30 дней) -->
-<img src="https://ghchart.rshah.org/8A2BE2/yfg-org" alt="GitHub Activity Chart" width="600">
+<!-- График активности (последние 31 день) -->
+<img src="https://ghchart.rshah.org/8A2BE2/YFG-CodeBase" alt="GitHub Activity Chart" width="600" style="border-radius: 8px;">
 
-<div style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); height: 2px; width: 100%; max-width: 600px; margin: 16px auto; border-radius: 2px;"></div>
+<div style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); height: 2px; width: 100%; max-width: 600px; margin: 20px auto; border-radius: 2px;"></div>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TcwgMBKQFw)
-[![Telegram Chat](https://img.shields.io/badge/Telegram_Чат-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yfg_ing)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yfg_media)
-[![VRChat](https://img.shields.io/badge/VRChat-FF6C37?style=for-the-badge&logo=vk&logoColor=white)](https://vrc.group/YFG666.9285)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yfg_ing)
-[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/groups/yfg_ing)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yfg_ing)
-[![Website](https://img.shields.io/badge/yfg.su-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yfg.su)
+<!-- Социальные сети в виде аккуратных бейджей -->
+<a href="https://discord.gg/TcwgMBKQFw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://t.me/yfg_ing"><img src="https://img.shields.io/badge/Telegram_Чат-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
+<a href="https://t.me/yfg_media"><img src="https://img.shields.io/badge/Telegram_Канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+<a href="https://vrc.group/YFG666.9285"><img src="https://img.shields.io/badge/VRChat-FF6C37?style=for-the-badge&logo=vk&logoColor=white" alt="VRChat"></a>
+<a href="https://www.youtube.com/@yfg_ing"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://steamcommunity.com/groups/yfg_ing"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://vk.com/yfg_ing"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+<a href="https://yfg.su"><img src="https://img.shields.io/badge/yfg.su-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 
 <div style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); height: 2px; width: 100%; max-width: 600px; margin: 20px auto; border-radius: 2px;"></div>
 
@@ -45,14 +45,15 @@
 
 <div align="center">
 
-<!-- КЛЮЧЕВЫЕ ВОЗМОЖНОСТИ В КОМПАКТНОМ ВИДЕ -->
-| 🎫 **Билетная система** | ⚖️ **Юридическое сопровождение** |
+<!-- Ключевые возможности без эмодзи, чётко и структурированно -->
+
+| **Билетная система** | **Юридическое сопровождение** |
 |:---:|:---:|
 | QR/штрих-коды | Работа без ИП |
 | Мобильное сканирование | Полная отчётность |
 | Детальные карточки | Официальный сайт |
 
-| 🎯 **Удобство** | 📋 **Функционал** |
+| **Удобство** | **Функционал** |
 |:---:|:---:|
 | Для организаторов и гостей | Все запросы в одном месте |
 | Интуитивный UX | Кастомизация под событие |
@@ -64,7 +65,10 @@
   <br>
   <code>Удобство</code> · <code>Функционал</code> · <code>Простота</code> · <code>Коммуникация</code>
   <br><br>
-  <div style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); height: 1px; width: 300px; margin: 10px auto; border-radius: 1px;"></div>
+  
+  <!-- Футер с горизонтальной линией -->
+  <div style="background: linear-gradient(90deg, #FF8C00, #8A2BE2); height: 1px; width: 300px; margin: 16px auto; border-radius: 1px;"></div>
+  
   <sub>
     <strong>YFG — Your Furry Group</strong><br>
     Проект, созданный профессионалами для профессионалов
