@@ -28,9 +28,6 @@
 
 </div>
 
-<!-- ГРАФИК АКТИВНОСТИ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YFG-CodeBase&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=FF8C00&point=8A2BE2&area=true&area_color=8A2BE2&radius=8" width="100%" alt="Activity Graph">
-
 <div align="center">
   <br>
   <code>Удобство</code> · <code>Функционал</code> · <code>Простота</code> · <code>Коммуникация</code>
