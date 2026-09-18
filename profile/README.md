@@ -7,7 +7,7 @@
 
 <!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК С КУРСОРОМ -->
 <a href="https://yfg.su">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=60&lines=Your+Furry+Group&cursor=true" alt="YFG Title">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=60&lines=Your+Fandom+Group&cursor=true" alt="YFG Title">
 </a>
 
 ---
