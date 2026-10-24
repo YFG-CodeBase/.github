@@ -38,7 +38,7 @@
   ---
   
   <sub>
-    <strong>YFG — Your Furry Group</strong><br>
+    <strong>YFG - Your Fandom Group</strong><br>
     Проект, созданный профессионалами для профессионалов
   </sub>
 </div>
