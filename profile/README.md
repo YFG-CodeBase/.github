@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- ЛОГОТИП -->
 <a href="https://yfg.su">
   <img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.3);">
 </a>
 
 <br>
 
-<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК С КУРСОРОМ -->
 <a href="https://yfg.su">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF8C00&center=true&vCenter=true&repeat=false&random=false&width=800&height=60&lines=Your+Fandom+Group&cursor=true" alt="Your Fandom Group">
 </a>
@@ -18,7 +16,6 @@
 
 ---
 
-<!-- БЕЙДЖИ СОЦСЕТЕЙ -->
 <p align="center">
   <a href="https://discord.gg/TcwgMBKQFw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://t.me/yfg_ing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
