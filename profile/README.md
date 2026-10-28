@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ЛОГОТИП -->
-<img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.3);">
+<a href="https://yfg.su">
+  <img src="https://github.com/user-attachments/assets/5948ba28-3db0-4d15-b325-c9c9a6ade017" width="140" alt="YFG Logo" style="border-radius: 20px; margin: 16px 0; box-shadow: 0 8px 24px rgba(138,43,226,0.3);">
+</a>
 
 <br>
 
